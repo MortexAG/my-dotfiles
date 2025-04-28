@@ -1,0 +1,20 @@
+2025-04-15 05:33:11.241 [info] Extension host with pid 10964 started
+2025-04-15 05:33:11.241 [info] Skipping acquiring lock for /home/mortexag/.config/Code - OSS/User/workspaceStorage/bedd7c3a65365d8d51860fcf8eb39cec.
+2025-04-15 05:33:11.330 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-15 05:33:11.352 [info] ExtensionService#_doActivateExtension rust-lang.rust-analyzer, startup: false, activationEvent: 'onLanguage:rust'
+2025-04-15 05:33:11.494 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-15 05:33:11.508 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-15 05:33:11.566 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-15 05:33:11.630 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-15 05:33:11.634 [error] Canceled: Canceled
+	at Vc (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:7:1218)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:112814
+	at Array.forEach (<anonymous>)
+	at i4.dispose (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:112754)
+	at vV.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:10084)
+	at oD.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:1434)
+	at es (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:197:5701)
+	at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:197:2249)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-04-15 05:33:11.634 [info] Extension host with pid 10964 exiting with code 0

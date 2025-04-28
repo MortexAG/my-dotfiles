@@ -1,0 +1,119 @@
+2025-04-11 04:52:47.862 [info] [main] Log level: Info
+2025-04-11 04:52:47.862 [info] [main] Validating found git in: "git"
+2025-04-11 04:52:47.862 [info] [main] Using git "2.49.0" from "git"
+2025-04-11 04:52:47.862 [info] [Model][doInitialScan] Initial repository scan started
+2025-04-11 04:52:47.862 [info] > git rev-parse --show-toplevel [81ms]
+2025-04-11 04:52:47.862 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:47.862 [info] > git rev-parse --show-toplevel [4ms]
+2025-04-11 04:52:47.862 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:47.871 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-11 04:52:47.871 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:47.876 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-11 04:52:47.876 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:47.881 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-11 04:52:47.881 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:47.886 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-11 04:52:47.886 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:47.893 [info] > git rev-parse --show-toplevel [0ms]
+2025-04-11 04:52:47.893 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:47.900 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-11 04:52:47.900 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:47.906 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-11 04:52:47.906 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:47.912 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-11 04:52:47.912 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:47.918 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-11 04:52:47.925 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-04-11 04:52:47.939 [info] [Model][openRepository] Opened repository: /home/mortexag/.oh-my-zsh
+2025-04-11 04:52:47.955 [info] > git rev-parse --show-toplevel [3ms]
+2025-04-11 04:52:47.955 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:47.972 [info] > git rev-parse --show-toplevel [11ms]
+2025-04-11 04:52:47.972 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:47.973 [info] > git config --get commit.template [25ms]
+2025-04-11 04:52:47.978 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2025-04-11 04:52:47.979 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-11 04:52:47.979 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:47.998 [info] > git rev-parse --show-toplevel [13ms]
+2025-04-11 04:52:47.998 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:48.005 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [8ms]
+2025-04-11 04:52:48.006 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-11 04:52:48.006 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:48.012 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-11 04:52:48.012 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:48.019 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-11 04:52:48.019 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:48.025 [info] > git status -z -uall [34ms]
+2025-04-11 04:52:48.054 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2025-04-11 04:52:48.059 [info] > git rev-parse --show-toplevel [35ms]
+2025-04-11 04:52:48.059 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:48.076 [info] > git config --get --local branch.master.vscode-merge-base [17ms]
+2025-04-11 04:52:48.082 [info] > git config --get commit.template [28ms]
+2025-04-11 04:52:48.084 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [3ms]
+2025-04-11 04:52:48.089 [info] > git rev-parse --show-toplevel [25ms]
+2025-04-11 04:52:48.089 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:48.127 [info] > git merge-base refs/heads/master refs/remotes/origin/master [38ms]
+2025-04-11 04:52:48.136 [info] > git diff --name-status -z --diff-filter=ADMR f81259fb344685e2dc8b67f8ad8764ccd4e8502e...refs/remotes/origin/master [4ms]
+2025-04-11 04:52:48.136 [info] > git rev-parse --show-toplevel [9ms]
+2025-04-11 04:52:48.136 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:48.136 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2025-04-11 04:52:48.142 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-11 04:52:48.142 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:48.157 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-04-11 04:52:48.158 [info] > git rev-parse --show-toplevel [12ms]
+2025-04-11 04:52:48.162 [info] > git status -z -uall [11ms]
+2025-04-11 04:52:48.165 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2025-04-11 04:52:48.169 [info] [Model][openRepository] Opened repository: /home/mortexag/HyDE
+2025-04-11 04:52:48.180 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-11 04:52:48.180 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:48.180 [info] > git config --get commit.template [5ms]
+2025-04-11 04:52:48.191 [info] > git rev-parse --show-toplevel [5ms]
+2025-04-11 04:52:48.191 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:48.195 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-04-11 04:52:48.199 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/mortexag/HyDE/.git/refs/remotes/origin/master'
+2025-04-11 04:52:48.199 [info] > git rev-parse --show-toplevel [4ms]
+2025-04-11 04:52:48.199 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:48.204 [info] > git rev-parse refs/remotes/origin/master [5ms]
+2025-04-11 04:52:48.212 [info] > git rev-parse --show-toplevel [8ms]
+2025-04-11 04:52:48.212 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:48.217 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2025-04-11 04:52:48.218 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-11 04:52:48.218 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:48.223 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-11 04:52:48.223 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:48.228 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-11 04:52:48.233 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-04-11 04:52:48.237 [info] [Model][openRepository] Opened repository: /home/mortexag/yay
+2025-04-11 04:52:48.238 [info] [Model][doInitialScan] Initial repository scan completed - repositories (3), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-04-11 04:52:48.243 [info] > git config --get commit.template [1ms]
+2025-04-11 04:52:48.252 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-04-11 04:52:48.256 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/mortexag/yay/.git/refs/remotes/origin/master'
+2025-04-11 04:52:48.257 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2025-04-11 04:52:48.265 [info] > git status -z -uall [5ms]
+2025-04-11 04:52:48.266 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-04-11 04:52:48.279 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2025-04-11 04:52:48.284 [info] > git config --get --local branch.master.vscode-merge-base [1ms]
+2025-04-11 04:52:48.289 [info] > git config --get commit.template [10ms]
+2025-04-11 04:52:48.293 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [5ms]
+2025-04-11 04:52:48.298 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2025-04-11 04:52:48.303 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/mortexag/yay/.git/refs/remotes/origin/master'
+2025-04-11 04:52:48.303 [info] > git merge-base refs/heads/master refs/remotes/origin/master [6ms]
+2025-04-11 04:52:48.309 [info] > git rev-parse refs/remotes/origin/master [6ms]
+2025-04-11 04:52:48.319 [info] > git status -z -uall [6ms]
+2025-04-11 04:52:48.320 [info] > git diff --name-status -z --diff-filter=ADMR 179b744dec6648ff7c7b051c692ba20c906f348e...refs/remotes/origin/master [12ms]
+2025-04-11 04:52:48.321 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-04-11 04:52:48.619 [info] > git status -z -uall [410ms]
+2025-04-11 04:52:48.630 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2025-04-11 04:52:48.636 [info] > git config --get commit.template [6ms]
+2025-04-11 04:52:48.636 [info] > git config --get --local branch.master.vscode-merge-base [1ms]
+2025-04-11 04:52:48.645 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [5ms]
+2025-04-11 04:52:48.651 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2025-04-11 04:52:48.655 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/mortexag/HyDE/.git/refs/remotes/origin/master'
+2025-04-11 04:52:48.655 [info] > git merge-base refs/heads/master refs/remotes/origin/master [5ms]
+2025-04-11 04:52:48.660 [info] > git rev-parse refs/remotes/origin/master [5ms]
+2025-04-11 04:52:48.669 [info] > git diff --name-status -z --diff-filter=ADMR 2689df9882b5ac501d6d66a0118561041e311ae3...refs/remotes/origin/master [9ms]
+2025-04-11 04:52:48.669 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-04-11 04:52:48.952 [info] > git status -z -uall [289ms]
+2025-04-11 04:52:49.238 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-11 04:52:49.238 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-11 04:52:50.332 [info] > git check-ignore -v -z --stdin [5ms]
+2025-04-11 04:52:50.333 [info] > git check-ignore -v -z --stdin [2ms]

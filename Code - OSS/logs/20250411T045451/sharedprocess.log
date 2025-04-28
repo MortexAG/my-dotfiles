@@ -1,0 +1,7 @@
+2025-04-11 04:55:16.948 [info] Getting Manifest... rust-lang.rust-analyzer
+2025-04-11 04:55:18.047 [info] Installing extension: rust-lang.rust-analyzer {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mortexag/.vscode-oss/extensions/extensions.json","path":"/home/mortexag/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.1","date":"2025-04-09T20:29:37.661Z"}}
+2025-04-11 04:55:25.983 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-04-11 04:55:25.983 [info] Extension signature verification is not done: rust-lang.rust-analyzer
+2025-04-11 04:55:26.483 [info] Extracted extension to file:///home/mortexag/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.2370-linux-x64: rust-lang.rust-analyzer
+2025-04-11 04:55:26.497 [info] Renamed to /home/mortexag/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.2370-linux-x64
+2025-04-11 04:55:26.518 [info] Extension installed successfully: rust-lang.rust-analyzer vscode-userdata:/home/mortexag/.vscode-oss/extensions/extensions.json

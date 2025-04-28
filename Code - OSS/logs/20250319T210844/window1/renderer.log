@@ -1,0 +1,4 @@
+2025-03-19 21:08:46.105 [info] Started local extension host with pid 54532.
+2025-03-19 21:08:46.149 [info] Started initializing default profile extensions in extensions installation folder. file:///home/mortexag/.vscode-oss/extensions
+2025-03-19 21:08:46.333 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/mortexag/.vscode-oss/extensions
+2025-03-19 21:08:49.310 [info] [perf] Render performance baseline is 33ms
